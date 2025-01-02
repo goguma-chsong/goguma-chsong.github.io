@@ -102,10 +102,12 @@ content:
           I entered to the **Computer Security Club** called **PLUS**. I attended a bunch of hacking contest with members of **PLUS**.
           In addition to, I also performed in a Choir as Tenor and Conductor. I was also charged of Part leader of Tenor. The leader of tenor and the conductor improved my leadership among the group.
 
+      - layout: left
         title: KAIST (Korea Advanced Institute of Science and Technology)
         caption: 2019 - 2021
         sub_title: Master Degree of Information Security
 
+      - layout: left
         title: KAIST (Korea Advanced Institute of Science and Technology)
         caption: 2021 - 2023 (Quitted)
         sub_title: Ph.D Candidate
