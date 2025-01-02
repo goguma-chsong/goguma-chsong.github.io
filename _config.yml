@@ -53,12 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Python</mark>, <mark>C++</mark>, <mark>Computer Security</mark>, and <mark>Compiler Engineering</mark>
 
 content:
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        
-
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -86,11 +80,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: I3B
+        # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Main Developer of Startup company
+        caption: August 2017 - January 2018
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -100,15 +94,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: POSTECH (Pohang University of Science and Technology)
+        caption: 2014 - 2019
+        sub_title: Bachelor Degree of Computer Science
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time in the POSTECH, I have learnt most of my computer science skills. What I mostly interested was **Computer System and Security**.
+          I entered to the **Computer Security Club** called **PLUS**. I attended a bunch of hacking contest with members of **PLUS**.
+          In addition to, I also performed in a Choir as Tenor and Conductor. I was also charged of Part leader of Tenor. The leader of tenor and the conductor improved my leadership among the group.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        title: KAIST (Korea Advanced Institute of Science and Technology)
+        caption: 2019 - 2021
+        sub_title: Master Degree of Information Security
+
+        title: KAIST (Korea Advanced Institute of Science and Technology)
+        caption: 2021 - 2023 (Quitted)
+        sub_title: Ph.D Candidate
 
   - title: A Little More About Me
     layout: text
